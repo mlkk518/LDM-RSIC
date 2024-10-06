@@ -38,15 +38,15 @@ Testing set  (Baidu Netdisk) [DOTA:Download](https://pan.baidu.com/s/1R52rO-gxZH
 - **Step II.**  Refer to test_DiffRS2_lambda.yml to set the data roots and pretrained models of [LDM], and run sh ./scriptEn/test.sh Lambada Gpu_ID. Here lambda belongs to [0.0004, 0.0008, 0.0032, 0.01, 0.045] 
 
 ```
+sh ./ELIC/scripts/test.sh 0.0008 0
 
->>> sh ./ELIC/scripts/test.sh 0.0008 0
-
->>> sh ./scriptEn/test.sh 0.0008 0
+sh ./scriptEn/test.sh 0.0008 0
 ```
 
 ## Train
 - **Step II.** Learning the compression distortion prior.   
-- **Step II.**  Using LDM to generate distortion prior, which is then fed into MEN for improved images.   
+- **Step II.**  Using LDM to generate distortion prior, which is then fed into MEN for improved images.
+  
 ```
 sh ./scriptEn/trainS1.sh 0.0008 0
 
@@ -54,10 +54,10 @@ sh ./scriptEn/trainS2.sh 0.0008 0
 
 ```
 
-### Qualitative results
+### Qualitative results 1
  ![image](/figs/DOTA_vis.png)
  
-### Quantitative results
+### Quantitative results 2
  ![image](/figs/UC_vis.png)
  
 #### More details can be found in our paper!
