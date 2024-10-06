@@ -31,7 +31,7 @@ Experimental Datasets:
 Testing set  (Baidu Netdisk) [DOTA:Download](https://pan.baidu.com/s/1R52rO-gxZH1jG-amwUCO-g) Code：ldc1 | [UC_M:Download](https://pan.baidu.com/s/1KJAy2cPVnj6VfqrlR5XPCg)  Code：pvf3 
 
 
-## Test
+## 🧩 Test
 [Download Pre-trained Model](https://pan.baidu.com/s/1OsPSjPp34RHasHi9YM5rHg) (Baidu Netdisk) Code：v72j
 - **Step I.**  Change the roots of ./ELIC/scripts/test.sh to your data and Use the pretrained models of [ELIC] to generate the initial decoded images.
 
@@ -43,7 +43,7 @@ sh ./ELIC/scripts/test.sh 0.0008 0
 sh ./scriptEn/test.sh 0.0008 0
 ```
 
-## Train
+## 🧩 Train
 - **Step II.** Learning the compression distortion prior.   
 - **Step II.**  Using LDM to generate distortion prior, which is then fed into MEN for improved images.
   
