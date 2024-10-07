@@ -88,8 +88,8 @@ This work was supported by:
 
 ```
 @article{li2024ldm,
-  title={LDM-RSIC: Exploring Distortion Prior with Latent Diffusion Models for Remote Sensing Image Compression},
-  author={Li, Junhui and Li, Jutao and Hou, Xingsong and Wang, Huake and Zhang, Yutao and Dun, Yujie and Sun, Wenke},
+  title={Exploring Distortion Prior with Latent Diffusion Models for Remote Sensing Image Compression},
+  author={Li, Junhui and Li, Jutao and Hou, Xingsong and Wang, Huake},
   journal={arXiv preprint arXiv:2406.03961},
   year={2024}
 }
