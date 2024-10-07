@@ -4,7 +4,7 @@
 PyTorch codes for "[Exploring Distortion Prior with Latent Diffusion Models for Remote Sensing Image Compression](https://arxiv.org/abs/2406.03961)", **xxxxxx**, 2024.
 
 - Authors: Junhui Li, Jutao Li, Xingsong Hou, and Huake Wang <br>
-- Xi’an Jiaotong University
+
 
 ## Abstract
 > Learning-based image compression algorithms typically focus on designing encoding and decoding networks and improving the accuracy of entropy model estimation to enhance the rate-distortion (RD) performance. However, few algorithms leverage the compression distortion prior from existing compression algorithms to improve RD performance. In this paper, we propose a latent diffusion model-based remote sensing image compression (LDM-RSIC) method, which aims to enhance the final decoding quality of RS images by utilizing the generated distortion prior from a LDM. Our approach consists of two stages. In Stage I, a self-encoder learns prior from the high-quality input image. In Stage II, the prior is generated through a LDM, conditioned on the decoded image of an existing learning-based image compression algorithm, to be used as auxiliary information for generating the texture-rich enhanced images. To better utilize the prior, a channel attention and gate-based dynamic feature attention module (DFAM) is embedded into a Transformer-based multi-scale enhancement network (MEN) for image enhancement. Extensive experimental results demonstrate the proposed LDM-RSIC outperforms existing state-of-the-art traditional and learning-based image compression algorithms in terms of both subjective perception and objective metrics.
