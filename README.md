@@ -67,7 +67,7 @@ sh ./scriptEn/trainS2.sh 0.0008 0
 
 ## Contact
 If you have any questions or suggestions, feel free to contact me. 😊  
-Email: mlkkljh@stu.xjtu.edu.cn; houxs@mail.xjtu.edu.cn
+Email: mlkkljh@stu.xjtu.edu.cn
 
 
 
