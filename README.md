@@ -1,4 +1,4 @@
-# LDM-RSIC (2024)
+# LDM-RSIC (2025)
 ### 📖[**Arxiv**](https://arxiv.org/abs/2406.03961) | 🖼️[**PDF**](/figs/LDM-RSIC.pdf)
 
 PyTorch codes for "[Exploring Distortion Prior with Latent Diffusion Models for Remote Sensing Image Compression](https://arxiv.org/abs/2406.03961)", **TGRS**, 2025.
