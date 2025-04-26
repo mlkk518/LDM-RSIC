@@ -1,7 +1,7 @@
 # LDM-RSIC (2024)
 ### 📖[**Arxiv**](https://arxiv.org/abs/2406.03961) | 🖼️[**PDF**](/figs/LDM-RSIC.pdf)
 
-PyTorch codes for "[Exploring Distortion Prior with Latent Diffusion Models for Remote Sensing Image Compression](https://arxiv.org/abs/2406.03961)", **xxxxxx**, 2024.
+PyTorch codes for "[Exploring Distortion Prior with Latent Diffusion Models for Remote Sensing Image Compression](https://arxiv.org/abs/2406.03961)", **TGRS**, 2025.
 
 - Authors: Junhui Li, Jutao Li, Xingsong Hou, and Huake Wang <br>
 
