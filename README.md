@@ -1,4 +1,4 @@
-# LDM-RSIC (2025)
+# LDM-RSIC (2025--Accepted by TGRS)
 ### 📖[**Arxiv**](https://arxiv.org/abs/2406.03961) | 🖼️[**PDF**](/figs/LDM-RSIC.pdf)
 
 PyTorch codes for "[Exploring Distortion Prior with Latent Diffusion Models for Remote Sensing Image Compression](https://arxiv.org/abs/2406.03961)", **TGRS**, 2025.
@@ -87,10 +87,15 @@ This work was supported by:
 
 
 ```
-@article{li2024ldm,
-  title={Exploring Distortion Prior with Latent Diffusion Models for Remote Sensing Image Compression},
+@ARTICLE{10980206,
   author={Li, Junhui and Li, Jutao and Hou, Xingsong and Wang, Huake},
-  journal={arXiv preprint arXiv:2406.03961},
-  year={2024}
-}
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Exploring Distortion Prior with Latent Diffusion Models for Remote Sensing Image Compression}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Image coding;Entropy;Distortion;Transformers;Decoding;Adaptation models;Remote sensing;Accuracy;Discrete wavelet transforms;Diffusion models;Image compression;latent diffusion models;remote sensing image;image enhancement},
+  doi={10.1109/TGRS.2025.3565259}}
+
 ```
