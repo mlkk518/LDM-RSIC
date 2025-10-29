@@ -1,3 +1,4 @@
+export PYTHONPATH=/media/project_path:$PYTHONPATH
 LAMBDA=${1}
 GPU=${2} #,1,2,3 #,1,2,3,4
 export CUDA_VISIBLE_DEVICES=${GPU}
